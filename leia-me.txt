@@ -1,0 +1,54 @@
+Baixar aplicativo Dev App
+https://play.google.com/store/apps/details?id=io.ionic.devapp&hl=pt_BR
+
+-------------------------
+
+Ionic comunicacao (http)
+- GET - Obter uma informacao do servidor
+- Post - Inserir algo
+- Put - Alterar algo (alterar todo objeto)
+- Path - Alterar algo (alterar parte do objeto)
+- Delete - Excluir algo
+
+https://itunes.apple.com/us/app/ionic-devapp/id1233447133?mt=8
+
+
+----------------------------
+API
+Visual Studio Communite
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16
+
+----------------------------
+https://www.udemy.com/criando-apis-robustas-em-c/?couponCode=ROLAND
+
+
+
+roland.com.br/api/controlador/acao
+
+roland.com.br/api/usuario/listar (get)
+roland.com.br/api/usuario/obter (get)
+roland.com.br/api/usuario/adicionar (post)
+roland.com.br/api/usuario/alterar
+roland.com.br/api/usuario/excluir
+roland.com.br/api/usuario/enviaremail
+
+------------------------------------
+Remover plataforma
+ionic cordova platform remove android
+
+Criar plataforma
+ionic cordova platform add android
+------------------------------------
+Gerar Apk
+ionic cordova build android
+Gerar ips
+ionic cordova build ios
+
+
+
+
+
+
+
+
+
